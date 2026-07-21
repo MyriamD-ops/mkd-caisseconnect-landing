@@ -121,15 +121,9 @@
 <span class="text-headline-sm font-display-lg text-primary dark:text-primary-fixed font-bold">MKD Caisse Connect</span>
 </div>
 <div class="hidden md:flex items-center gap-6">
-<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#features">Features</a>
-<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#benefits">Benefits</a>
-<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#compliance">Compliance</a>
-</div>
-<div>
-<a class="bg-primary hover:bg-primary-container text-on-primary font-label-md px-4 py-2 rounded-full transition-colors inline-flex items-center gap-2 shadow-sm" href="https://mkd-caisseconnect-demo-production-vitj44.laravel.cloud/" target="_blank">
-                    Test the App
-                    <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
-</a>
+<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#features">Fonctionnalités</a>
+<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#benefits">Avantages</a>
+<a class="font-label-md text-label-md text-on-surface-variant dark:text-surface-variant hover:text-primary transition-colors" href="#compliance">Conformité</a>
 </div>
 </div>
 </nav>
