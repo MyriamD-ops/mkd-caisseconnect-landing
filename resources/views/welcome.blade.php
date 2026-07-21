@@ -134,9 +134,12 @@
 <img class="w-full h-full object-cover opacity-10" data-alt="A clean, modern workshop setting for an independent merchant. Bright, natural light streaming in, illuminating a sleek smartphone displaying a minimalist, green-themed point of sale dashboard, resting on a work table. The aesthetic is professional, organized, and reliable." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCl5V93O7jzxWXbys1kwsVscY5UisF5_vf2xO9SaUS2z_PiV9bNbEioD95Sa1BegOAttMoOa8IfezfK5PWbJovnxm7kQSAzYqD90xt1scNIm7l5uEKitZBOStoavPKtRaXR-KsOxtJ2TFz86Gg7MrJ3YZnqGA11HVnoBPlnq0ltLR0iXCiHGokhsoKw5ccCW-KzWYnMcDdN0KmqkqZgBgrQwupJHxmaetneaAhAE0Z0Df_wBTDFrIwi"/>
 </div>
 <div class="max-w-7xl mx-auto px-margin-mobile md:px-margin-desktop relative z-10 flex flex-col items-center text-center">
-<span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary-fixed/30 text-primary-fixed-variant font-label-md text-label-md mb-6 border border-primary-fixed">
+<span class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary-fixed/30 text-primary-fixed-variant font-label-md text-label-md mb-4 border border-primary-fixed">
 <span class="material-symbols-outlined text-[14px]">new_releases</span>
                 La Caisse dans la Poche
+            </span>
+<span class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-100 text-emerald-700 border border-emerald-200 text-sm font-semibold mb-6">
+                ✨ Nouveau : Facturation électronique conforme 2026 intégrée
             </span>
 <h1 class="font-display-lg-mobile md:font-display-lg text-display-lg-mobile md:text-display-lg text-on-surface max-w-3xl mb-6">
                 Transformez votre smartphone en <span class="text-primary">caisse enregistreuse</span> complète.
@@ -239,6 +242,15 @@
 <p class="font-body-md text-body-md text-on-surface-variant">Vos clients consultent les prix et stocks en direct via leur propre smartphone, sans application à installer.</p>
 </div>
 </div>
+<div class="flex gap-4">
+<div class="mt-1">
+<span class="material-symbols-outlined text-primary text-3xl">credit_card</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-on-surface mb-2">Paiements Multi-Moyens</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Acceptez les paiements par carte bancaire, Apple Pay, Google Pay et virement SEPA grâce à l'intégration Stripe sécurisée. Zéro terminal à acheter.</p>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -254,8 +266,8 @@
 <div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
 <span class="material-symbols-outlined text-primary text-3xl" style="font-variation-settings: 'FILL' 1;">verified</span>
 </div>
-<h3 class="font-headline-sm text-headline-sm text-on-surface mb-2">Conforme NF525</h3>
-<p class="font-body-md text-body-md text-on-surface-variant">Logiciel de caisse certifié, répondant aux exigences de l'administration fiscale française.</p>
+<h3 class="font-headline-sm text-headline-sm text-on-surface mb-2">Conformité Fiscale</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Logiciel de caisse conforme aux exigences réglementaires françaises, avec conservation des données, traçabilité complète et préparation à la certification NF525.</p>
 </div>
 <div class="glass-card rounded-2xl p-8 max-w-sm w-full flex flex-col items-center text-center shadow-lg hover:scale-105 transition-transform duration-300">
 <div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
@@ -270,6 +282,13 @@
 </div>
 <h3 class="font-headline-sm text-headline-sm text-on-surface mb-2">Conservation 6 ans</h3>
 <p class="font-body-md text-body-md text-on-surface-variant">Sauvegarde et conservation sécurisée de vos données de facturation pendant la durée légale requise.</p>
+</div>
+<div class="glass-card rounded-2xl p-8 max-w-sm w-full flex flex-col items-center text-center shadow-lg hover:scale-105 transition-transform duration-300">
+<div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center mb-4">
+<span class="material-symbols-outlined text-primary text-3xl" style="font-variation-settings: 'FILL' 1;">receipt_long</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-on-surface mb-2">Facturation Électronique 2026</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Génération automatique de factures au format Factur-X, transmission via Plateforme Agréée et suivi des statuts — conforme à la réforme de la facturation électronique applicable dès septembre 2026.</p>
 </div>
 </div>
 </div>
@@ -306,6 +325,14 @@
 <li class="flex items-center gap-3">
 <span class="material-symbols-outlined text-primary text-[20px]">check_circle</span>
 <span class="font-body-md text-on-surface">Support prioritaire</span>
+</li>
+<li class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary text-[20px]">check_circle</span>
+<span class="font-body-md text-on-surface">Facturation électronique Factur-X</span>
+</li>
+<li class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary text-[20px]">check_circle</span>
+<span class="font-body-md text-on-surface">Paiements Stripe intégrés</span>
 </li>
 </ul>
 <a class="bg-primary hover:bg-primary-container text-on-primary font-label-md text-center py-4 rounded-lg transition-colors shadow-md" href="#">
